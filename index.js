@@ -1,7 +1,7 @@
 const nftName = "NatreeumPracticeNFT";
 const description = "This NFT is practicing";
 const hiddenImgUrl = "ipfs://QmXihDacRy5v3mTCPQ1W7jPeBjGJDgMsdD81rxgbDNDUtE";
-const totalNum = 81;
+const totalNum = 1;
 
 try {
     for (let i = 1; i <= totalNum; i++) {
