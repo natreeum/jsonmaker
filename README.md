@@ -15,3 +15,6 @@ Edit :
 Usage : 
  - to make unrevealed json File : node index.js
  - to make revealed json File : node index2.js
+
+Add traits : 
+ - "attributes":[{"trait_type": "type1","value": "trait 1"},{"trait_type": "type1","value": "trait 2"},{"trait_type": "type2","value": "trait 1"},{"trait_type": "type2","value": "trait 2"} ]
