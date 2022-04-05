@@ -5,8 +5,8 @@ Source : https://github.com/JoCoding-Blockchain/nft-json-maker
 *This File is for making "Unrevealed NFT json files" or "Only traits NFT json files"*
 
 Need :
- - (directory) json
- - (directory) revealedjson
+ - (directory) /json
+ - (directory) /revealedjson
 
 Edit : 
  - nftName  // This is your nft name
