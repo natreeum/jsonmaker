@@ -2,7 +2,7 @@
 
 Source : https://github.com/JoCoding-Blockchain/nft-json-maker
 
-*This File is for making "Unrevealed NFT json files" or "Only traits NFT json files"*
+*This File is for making "Unrevealed NFT json files" or "Only trait NFT json files"*
 
 Need :
  - (directory) /json
@@ -15,8 +15,8 @@ Edit :
  - totalNum  // Total quatity of your nft
 
 Usage : 
- - to make unrevealed json File : node index.js
- - to make only traits NFT json File : node index2.js
+ - to make unrevealed json File : `node index.js`
+ - to make only traits NFT json File : `node index2.js`
 
 Add traits : 
  - "attributes":[{"trait_type": "type1","value": "trait 1"},{"trait_type": "type1","value": "trait 2"},{"trait_type": "type2","value": "trait 1"},{"trait_type": "type2","value": "trait 2"} ]
